@@ -1,0 +1,53 @@
+body {
+    font-family: 'Aclonica';font-size: 22px;
+    background-color: rgb(400, 200, 51);
+    padding: 20px;
+}
+
+h1{
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.orderForm {
+    background-color: rgb(204, 153, 51);
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    border: solid black 2px;
+}
+
+.addPizza {
+    background-color: #f02c00;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 11px;
+    cursor: pointer;
+    margin-bottom: 8px;
+}
+
+#seeTotalButton {
+    background-color: #b34229;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 11px;
+    cursor: pointer;
+    margin-bottom: 8px;
+}
+
+.orderList div {
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: #E0E0E0;
+    border-radius: 12px;
+}
+
+.totalCost {
+    font-size: 36px;
+    font-weight: bold;
+    margin-top: 15px;
+
+}
