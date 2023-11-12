@@ -17,12 +17,13 @@ A Program Where A User Can Make A Pizza.
 ## Github Page Link
 
 https://p2nts.github.io/projectweek4/
-
+# _Click GhPages Link Above_
 ## Setup/Installation Requirements
-* _DownLoad Live Server Extension for VSCode_
-* _Make Sure to have the Live server extension for VSCode_
-* _Click "Go Live"  On Bottom Right Or Right Click And press "Open With Live Server On Index.html_
-* _Or Click GhPages Link Above_
+* _Download VsCode https://www.youtube.com/watch?v=ITxcbrfEcIY_
+* _Clone This Repo To VsCode https://github.com/P2NTS/projectweek4_
+* _Install Live Server Extension For VsCode https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer_
+* _After Installing Either Click "Go Live" On Bottom Right of Vscode Or Right Click And press "Open With Live Server On The Index.html File_
+
 
 
 
