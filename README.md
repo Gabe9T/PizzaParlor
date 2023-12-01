@@ -20,7 +20,7 @@ https://p2nts.github.io/PizzaParlor/
 # _Click GhPages Link Above_
 ## Setup/Installation Requirements
 * _Download VsCode https://www.youtube.com/watch?v=ITxcbrfEcIY_
-* _Clone This Repo To VsCode https://github.com/P2NTS/projectweek4_
+* _Clone This Repo To VsCode https://github.com/Gabe9T/PizzaParlor
 * _Install Live Server Extension For VsCode https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer_
 * _After Installing Either Click "Go Live" On Bottom Right of Vscode Or Right Click And press "Open With Live Server On The Index.html File_
 
