@@ -16,7 +16,7 @@ A Program Where A User Can Make A Pizza.
 
 ## Github Page Link
 
-https://p2nts.github.io/PizzaParlor/
+https://Gabe9T.github.io/PizzaParlor/
 # _Click GhPages Link Above_
 ## Setup/Installation Requirements
 * _Download VsCode https://www.youtube.com/watch?v=ITxcbrfEcIY_
